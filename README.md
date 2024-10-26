@@ -1,5 +1,5 @@
 # SpikMamba
-![Framework of SpikeMamba](/Users/chenjiaqi/spikmamba/images/framework1.pdf)
+![Framework of SpikeMamba](images/framework1.png)
 
 code will be released later!
 
