@@ -1,0 +1,1 @@
+python /home/dsz/Documents/eventcamera/spikformer/cifar10dvs/train_spikmamba2_hardvs.py

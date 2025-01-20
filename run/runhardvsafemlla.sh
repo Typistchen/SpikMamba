@@ -1,0 +1,1 @@
+python /home/dsz/Documents/eventcamera/spikformer/cifar10dvs/train_hardvs_sps_afe_mlla.py

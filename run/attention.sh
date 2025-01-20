@@ -1,0 +1,1 @@
+python /home/dsz/Documents/eventcamera/spikformer/cifar10dvs/Train_HARdvs/train_hardvs_sla_save.py
